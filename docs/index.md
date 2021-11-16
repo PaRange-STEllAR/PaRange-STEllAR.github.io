@@ -5,4 +5,8 @@
 layout: home
 ---
 
-Our research concernt how parallelization on C++20 Ranges would work.
+We are members of the STE||AR Group that actively contribute on HPX,
+  a C++ Standards Library for Concurrency and Parallelism. Having adapted 
+  all the C++ parallel algorithms to C++20 for HPX we are now trying to
+  examine how parallelization would work on the newly inroduced
+  C++20 Ranges.
