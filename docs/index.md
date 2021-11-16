@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Our research concernt how parallelization on C++20 Ranges would work.
